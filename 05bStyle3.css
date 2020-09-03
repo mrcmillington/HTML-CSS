@@ -1,0 +1,17 @@
+body{
+    width: 75%;
+    margin: auto;
+    margin-top: 5%;
+    border:blueviolet solid 3px;
+    padding:3%;
+}
+p{
+    width:80%;
+    margin:auto;
+    margin-top:20px;
+    font:1.3rem "Arial";
+}
+.chorus{
+    font:1.4rem italic;
+    font-weight:600;
+}
