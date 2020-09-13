@@ -1,2 +1,4 @@
 # HTML-CSS-JS
-For LWC 3rd form
+
+
+An Introduction to HTML and CSS for LWC Students
