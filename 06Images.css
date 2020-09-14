@@ -2,13 +2,17 @@ body{
     width:75%;
     margin:auto;
 }
-.row{
-    height:200px;
-    background-color: red;
-}
+
 img{
     width:30%;
     margin-left: 5px;
     margin-right:5px;
-
+    float:left;
+    display:block;
+}
+p{
+    width:30%;
+    margin:5px;
+    float:left;
+    display:block;
 }
