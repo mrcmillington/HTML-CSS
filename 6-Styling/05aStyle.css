@@ -1,28 +1,29 @@
-/*body{
+body{
     width:80%;
     margin:auto;
     border:red solid 2px;
     padding: 5%;
-}*/
-/*p{
+    margin-top:10px;
+}
+p{
     font:1.6rem Arial;
     color:red;
-    width:50%;
+    width:75%;
     margin-top:1cm;
-}*/
-/*h2{
+}
+h2{
     background-color: red;
     color:white;
     font:2rem "Courier New";
-}*/
-/*img{
+}
+img{
     width:50%;
     margin:auto;
-}*/
-/*#heading{
+}
+#heading{
     font:3rem "Arial Black";
     font-weight:800;
-}*/
-/*.fact{
+}
+.fact{
     background-color: yellow;
-}*/
+}
