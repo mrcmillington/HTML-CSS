@@ -1,0 +1,13 @@
+body{
+    width:80%;
+    margin:auto;
+    margin-top:10%;
+    color:dodgerblue;
+}
+h1{
+    font:40pt Arial,SansSerif;
+}
+li{
+    margin-top:3%;
+    font:32pt Arial,SansSerif;
+}
